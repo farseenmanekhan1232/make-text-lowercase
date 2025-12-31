@@ -19,7 +19,7 @@ A lightweight Chrome extension that adds a right-click context menu option to co
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/farseenabdullah/make-text-lowercase.git
+   git clone https://github.com/farseenmanekhan1232/make-text-lowercase.git
    ```
 2. Open Chrome and navigate to `chrome://extensions/`
 3. Enable **Developer mode** (toggle in top-right corner)
